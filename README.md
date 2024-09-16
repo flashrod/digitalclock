@@ -1,8 +1,7 @@
 ⏰ Digital Clock
 This is a simple, elegant Digital Clock made using HTML, CSS, and JavaScript. It displays the current time dynamically and updates every second.
 
-🖼️ Demo
-You can view a live demo of the project here: Live Demo Link
+
 
 
 📋 Features
